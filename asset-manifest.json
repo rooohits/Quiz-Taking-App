@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quiz-Taking-App/static/css/main.f5e6a527.css",
+    "main.js": "/Quiz-Taking-App/static/js/main.f265aca8.js",
+    "index.html": "/Quiz-Taking-App/index.html",
+    "main.f5e6a527.css.map": "/Quiz-Taking-App/static/css/main.f5e6a527.css.map",
+    "main.f265aca8.js.map": "/Quiz-Taking-App/static/js/main.f265aca8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e6a527.css",
+    "static/js/main.f265aca8.js"
+  ]
+}
